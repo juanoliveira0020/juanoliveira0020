@@ -1,26 +1,26 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF00FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BF00FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Murilo+Rangel+de+França;I+study+Analysis+and+Systems+Development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BF00FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Juan+Oliveira;I+study+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MuPeu&show_icons=true&count_private=true&hide_border=true&title_color=BF00FF&icon_color=BF00FF&text_color=c9d1d9&bg_color=0d1117" alt="Juan Oliveira github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuPeu&layout=compact&hide_border=true&title_color=BF00FF&text_color=BF00FF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JuanOliveira&show_icons=true&count_private=true&hide_border=true&title_color=BF00FF&icon_color=BF00FF&text_color=c9d1d9&bg_color=0d1117" alt="Juan Oliveira github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanOliveira&layout=compact&hide_border=true&title_color=BF00FF&text_color=BF00FF&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MuPeu/MuPeu/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/JuanOliveira/JuanOliveira/output/snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuPeu&bg_color=000000&color=BF00FF&line=C619FF&point=7851A9&area=true&hide_border=true" alt="Ashutosh's github activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanOliveira&bg_color=000000&color=BF00FF&line=C619FF&point=7851A9&area=true&hide_border=true" alt="Juan Oliveira's github activity graph"/>
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuPeu&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JuanOliveira&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/muril0.frank" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/juan.xzx__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
  
 ### Main skills:
@@ -50,8 +50,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MuPeu}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JuanOliveira}/count.svg" /></p> 
 <br></div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF00FF&height=120&section=footer"/>
