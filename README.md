@@ -1,16 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50ff00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50ff00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Ana+Picoli;I+study+analysis+and+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50ff00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Juan+Oliveira;I+study+analysis+and+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anapicoli&show_icons=true&count_private=true&hide_border=true&title_color=12ad00&icon_color=50ff00&text_color=c9d1d9&bg_color=0d1117" alt="Ana Picoli github stats"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapicoli&layout=compact&hide_border=true&title_color=50ff00&text_color=50ff00&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juanoliveira0020&show_icons=true&count_private=true&hide_border=true&title_color=12ad00&icon_color=50ff00&text_color=c9d1d9&bg_color=0d1117" alt="Ana Picoli github stats"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanoliveira0020&layout=compact&hide_border=true&title_color=50ff00&text_color=50ff00&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anapicoli&bg_color=000000&color=349400&line=b9ff8e&point=349400&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juanoliveira0020&bg_color=000000&color=349400&line=b9ff8e&point=349400&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anapicoli&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=juanoliveira0020&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 ### Main skills:
@@ -40,7 +40,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{anapicoli}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{juanoliveira0020}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50ff00&height=120&section=footer"/>
