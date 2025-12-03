@@ -11,7 +11,7 @@
 </div>
 
 <!-- GitHub Activity Graph -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juanoliveira&bg_color=000000&color=800080&line=b9ff8e&point=800080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Juan Oliveira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juanoliveira&bg_color=000000&color=800080&line=b9ff8e&point=800080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Profile Trophy -->
 <p align="center">
@@ -44,7 +44,7 @@
 <div align="center">
   <br>
   <p><b>Visitors Count</b></p>
-  <p><img align="center" src="https://profile-counter.glitch.me/{juanoliveira}/count.svg" /></p>
+  <p><img align="center" src="https://profile-counter.glitch.me/juanoliveira/count.svg" /></p>
   <br>
 </div>
 
