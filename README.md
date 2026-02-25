@@ -5,7 +5,7 @@
 # Hello👋🏻, I'm juan Oliveira
 ### Desenvolvedor Full-Stack e designer
 
-❄️ Aluno técnico em Desenvolvimento de Sistemas, busco aprendizado contínuo de Back-End, Front-End e design 🐱‍👤 Buscando experiências que me ajudem a crescer.
+❄️ Aluno técnico em Desenvolvimento de Sistemas, busco aprendizado contínuo de Back-End, Front-End e design 🥷🏻 Buscando experiências que me ajudem a crescer.
 
 ## Skills
 
