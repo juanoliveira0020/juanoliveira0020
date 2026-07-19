@@ -7,7 +7,7 @@
 
 ❄️ Formado em Técnico em Desenvolvimento de Sistemas, busco aprendizado contínuo de Back-End, Front-End e design 🥷🏻 Buscando experiências que me ajudem a crescer.
 
-🔗 [GitHub](https://github.com/juanoliveira0020) &nbsp;|&nbsp; 🔗 [Portfólio](https://juan-portfolio-lemon.vercel.app/)
+&nbsp; 🔗 [Portfólio](https://juan-portfolio-lemon.vercel.app/)
 
 ## Skills
 <p align="left">
