@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Juan%20Oliveira&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20%26%20Designer&descSize=18&descAlign=50&descAlignY=55&color=4B0082&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Juan%20Oliveira&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20e%20Designer&descSize=18&descAlign=50&descAlignY=55&color=4B0082&animation=fadeIn" />
 </div>
 
 <h3 align="center">👋 Olá, seja bem-vindo(a) ao meu perfil!</h3>
